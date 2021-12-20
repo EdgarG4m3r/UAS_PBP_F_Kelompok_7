@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/camera.xml" value="0.14" />
+        <entry key="..\:/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/login.xml" value="0.17980072463768115" />
+        <entry key="..\:/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/main_menu.xml" value="0.17980072463768115" />
+        <entry key="..\:/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/profile.xml" value="0.22" />
+        <entry key="..\:/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/reservation.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/detail_reservasi.xml" value="0.22" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/fragment_detail_reservasi.xml" value="0.15" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/location.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/profile.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/register.xml" value="0.16" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS/app/src/main/res/layout/reservasi.xml" value="0.18" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/camera_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/detail.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/fragment_reservation_detail.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/location.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/main_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/notification.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/profile.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/provider_paths.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/register.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/reservation.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/layout/reservation_detail.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/UTS_PBP_F_Kelompok_7-main/app/src/main/res/xml/provider_paths.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/drawable/spinner_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/detail.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/detail_reservasi.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/fragment_detail_reservasi.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/location.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/login.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/main_menu.xml" value="0.33" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/notification.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/profile.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/register.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/reservasi.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/reservation.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/Documents/Kuliah/PBP/UTS/app/src/main/res/layout/reservation_detail.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/ACER/Downloads/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/profile.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ACER/Downloads/UTS_PBP_F_Kelompok_7-main/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/camera_main.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Downloads/UTS_PBP_F_Kelompok_7-main/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/detail.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Downloads/UTS_PBP_F_Kelompok_7-main/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/fragment_reservation_detail.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Downloads/UTS_PBP_F_Kelompok_7-main/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/notification.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Downloads/UTS_PBP_F_Kelompok_7-main/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/profile.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/Downloads/UTS_PBP_F_Kelompok_7-main/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/reservation_detail.xml" value="0.3875" />
+        <entry key="..\:/Users/ACER/Downloads/testing/UTS/app/src/main/res/layout/fragment_reservation_detail.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/ACER/Downloads/testing/UTS/app/src/main/res/layout/login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/ACER/Downloads/testing/UTS/app/src/main/res/layout/main_menu.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/ACER/Downloads/testing/UTS/app/src/main/res/layout/profile.xml" value="0.18" />
+        <entry key="..\:/Users/ACER/Downloads/testing/UTS/app/src/main/res/layout/register.xml" value="0.1" />
+        <entry key="..\:/Users/ACER/Downloads/testing/UTS/app/src/main/res/layout/reservation.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/ACER/Downloads/testing/UTS/app/src/main/res/layout/reservation_detail.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/UTS_PBP3/app/src/main/res/layout/location.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/UTS_PBP3/app/src/main/res/layout/notification.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/UTS_PPB4/app/src/main/res/layout/profile.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/UTS_PPB4/app/src/main/res/layout/reservation.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/Documents/UAS_PBP/UAS_PBP_F_Kelompok_7/app/src/main/res/layout/profile.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

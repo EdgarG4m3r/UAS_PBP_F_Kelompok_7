@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377765328944",
+    "project_id": "uts-pbp-90370",
+    "storage_bucket": "uts-pbp-90370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377765328944:android:c07d8d1b550b93902255f5",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377765328944-gsd3cme5j17dktktn5do5dn0krj07ltp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCiTRwLeU0y45ReBLbAG7qTRRIGGEqRJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377765328944-gsd3cme5j17dktktn5do5dn0krj07ltp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

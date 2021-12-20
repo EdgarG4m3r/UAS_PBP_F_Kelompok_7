@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        mapbox:mapbox_cameraTargetLat="40.73581"
+        mapbox:mapbox_cameraTargetLng="-73.99155"
+        mapbox:mapbox_cameraZoom="11"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lokasi Salon"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"/>
+</FrameLayout>
